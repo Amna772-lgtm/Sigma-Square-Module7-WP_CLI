@@ -1,0 +1,1 @@
+# Sigma-Square-Module7-WP_CLI
